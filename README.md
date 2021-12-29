@@ -3,6 +3,4 @@
 
 The above link takes you to a Jupyter notebook with Julia code for least squares regression.
 
-```
-using CSV , Gadfly ;
-```
+
